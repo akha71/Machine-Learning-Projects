@@ -1,3 +1,4 @@
 Deep learning model to predict type of breast cancer. This model classifies the cancer into 2 classes benign and malignant using 30 features.
 I applied early stopping and dropout methods to prevent overfitting. To show the importance of these methods, I frist show a model with overfitting.
 This can be spotted from training and validation error plot, then I compare the results after deploying early stopping and dropout strategies.
+link to dataset: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
